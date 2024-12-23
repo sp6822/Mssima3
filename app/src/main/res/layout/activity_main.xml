@@ -13,7 +13,7 @@
         android:layout_width="169dp"
         android:layout_height="17dp"
         android:layout_marginTop="4dp"
-        android:text="moana"
+        android:text="Moana"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.706"
         app:layout_constraintStart_toStartOf="parent"
@@ -173,8 +173,8 @@
 
     <TextView
         android:id="@+id/textView11"
-        android:layout_width="176dp"
-        android:layout_height="19dp"
+        android:layout_width="143dp"
+        android:layout_height="39dp"
         android:text="Moana and Maui go on adventures"
         tools:layout_editor_absoluteX="170dp"
         tools:layout_editor_absoluteY="349dp" />
